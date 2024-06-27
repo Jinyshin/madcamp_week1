@@ -9,4 +9,12 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address_fragment">Address</string>
+    <string name="free_fragment">Free</string>
+    <string name="image_fragment">Image</string>
+    <string name="tab_address">Address</string>
+    <string name="tab_image">Image</string>
+    <string name="tab_free">Free</string>
 </resources>

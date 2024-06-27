@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/addressFragment"
+        android:title="@string/tab_address"
+        android:icon="@drawable/ic_address"/>
+
+    <item
+        android:id="@+id/imageFragment"
+        android:title="@string/tab_image"
+        android:icon="@drawable/ic_image"/>
+
+    <item
+        android:id="@+id/freeFragment"
+        android:title="@string/tab_free"
+        android:icon="@drawable/ic_free"/>
+
+</menu>
